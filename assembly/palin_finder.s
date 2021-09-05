@@ -145,8 +145,8 @@ exit:
     // input: .asciz "step on no pets"
     // input: .asciz "Never odd or even"
 
-	text_is_palindrome: .asciz "Input is a palindrome\r\n"
-	text_not_palindrome: .asciz "Input is not a palindrome\r\n"
+	text_is_palindrome: .asciz "Palindrome detected\r\n"
+	text_not_palindrome: .asciz "Not a palindrome\r\n"
 
 
 .end
